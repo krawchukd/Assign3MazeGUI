@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Assign3MazeGUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Assign3MazeGUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
